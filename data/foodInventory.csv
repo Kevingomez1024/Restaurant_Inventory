@@ -1,0 +1,5 @@
+inventoryType,itemNumber,itemName,supplierName,price,quantity,houseType,expirationDate
+food,200,chicken,costco,2000,40,back,12/27/2020
+food,201,salt,costco,100,100,both,none
+food,202,chips,costco,100,50,front,03/21/2021
+food,203,bread,costco,200,50,both,01/15/2021

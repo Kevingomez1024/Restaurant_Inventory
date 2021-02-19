@@ -1,0 +1,4 @@
+inventoryType,itemNumber,itemName,supplierName,price,quantity,houseType,expirationDate
+drink,300,coffee,costco,500,40,front,12/27/2020
+drink,301,water,costco,100,100,both,none
+drink,302,vinegar,costco,700,20,back,03/21/2021

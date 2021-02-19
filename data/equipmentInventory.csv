@@ -1,0 +1,5 @@
+inventoryType,itemNumber,itemName,supplierName,price,quantity,houseType,description
+equipment,101,knife,costco,2000,5,back,cooking
+equipment,100,rag,costco,500,50,both,cleaning/cooking
+equipment,103,windex,costco,500,30,both,cleaning
+equipment,104,chair,costco,2500,20,front,furniture
